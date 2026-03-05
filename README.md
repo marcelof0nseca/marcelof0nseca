@@ -1,43 +1,71 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px" align="right">
+<div align="center">
+  <img height="150" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"  />
+</div>
 
-### Olá! Eu sou o Marcelo Andrade Fonseca 👋
+###
 
-<p align="left">
-  Sou estudante de Ciência da Computação na César School e atualmente estou desenvolvendo meus conhecimentos em programação, versionamento e criação de projetos práticos.<br>
-  Minha stack atual envolve principalmente Python e tecnologias para construção de interfaces básicas.
-</p>
-
----
-
-### 🦄 Linguagens
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-
-
----
-
-### 💼 Ferramentas
-**Git & GitHub · VS Code · Arduino IDE · Figma (básico)**
-
----
-
-### 💌 Entre em contato comigo
-<p align="left">
-  <a href="mailto:maf@cesar.school" title="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white"/>
+<div align="center">
+  <a href="www.linkedin.com/in/marcelo-andrdade-fonseca" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-
-  <a href="https://www.linkedin.com/in/marcelo-andrade-da-fonseca-7006b737b" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/>
+  <a href="fonseccamarcelo07@gamil.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-
-  <a href="https://api.whatsapp.com/send?phone=81997188460" title="WhatsApp">
-    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white"/>
+  <a href="https://www.instagram.com/marcelofonnseca/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
+</div>
 
-  <a href="https://instagram.com/marcelofonnseca" title="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white"/>
-  </a>
-</p>
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=marcelof0nseca.marcelof0nseca&"  />
+</div>
+
+###
+
+<h1 align="center">Olá! Eu sou o Marcelo Andrade Fonseca 👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  Sobre mim</h3>
+
+###
+
+<p align="left">🎓 Estudante de Ciência da Computação na CESAR School, com foco em desenvolvimento de software e construção de soluções práticas.<br><br>🚀 Atualmente aprimorando habilidades em programação, versionamento com Git e desenvolvimento de projetos aplicados. Tenho experiência com Python e tecnologias voltadas para criação de interfaces e aplicações funcionais.<br><br>💡 Interessado em desenvolvimento backend, lógica de programação, boas práticas de código e evolução constante como desenvolvedor.<br><br>📚 Sempre buscando transformar teoria em prática por meio de projetos reais e desafios técnicos.</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=marcelof0nseca&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
